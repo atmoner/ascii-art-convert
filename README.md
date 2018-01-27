@@ -1,1 +1,3 @@
-# ascii-art-convert
+# Ascii art convert
+## Use
+python ascii.py
